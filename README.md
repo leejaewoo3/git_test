@@ -1,0 +1,1 @@
+This is Jaewoo Lee's first official git project, my dudes!
